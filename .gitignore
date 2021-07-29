@@ -1,0 +1,6 @@
+sample/
+# assets/images/
+sample.html
+# activity.html
+# touch .gitignore
+# git rm assets --cached -r
