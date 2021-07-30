@@ -1,0 +1,44 @@
+* {
+	background-color: black;
+	margin: 0;
+	padding:  0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+.container-fluid h1 {
+	font-weight: bold;
+	color: white;
+	font-family: 'Zilla Slab', serif;
+	font-size: 6rem;
+	border: 3px solid white;
+	padding: 5rem;
+}
+
+.container-fluid .text h4 {
+	color: white;
+	font-size: 1.5rem;
+	border: none;
+	background-color: black;
+	padding: 1rem;
+
+}
+
+#tools > h1 {
+	margin: 0rem;
+	margin-top: 100px;
+
+}
+
+
+
+/*Footer*/
+footer #footer {
+	color: white;
+	font-size: 14px;
+	padding: 0.5rem 1rem;
+}
+
+footer{
+	border-top: 1px solid grey;
+}

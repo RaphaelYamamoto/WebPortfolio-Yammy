@@ -1,0 +1,85 @@
+* {
+	background-color: black;
+	margin: 0;
+	padding:  0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+.text-center > img {
+	border: 3px solid white;
+	margin-top: 50px;
+}
+.container-fluid .text-center h2 {
+	color: white;
+	font-family: 'Zilla Slab', serif;
+	font-size: 4rem;
+}
+
+.container-fluid .text-center .container h4 {
+	color: white;
+	border-bottom: 1px solid #fac83e;
+	margin-bottom: 5rem;
+}
+
+.text-justify {
+	color: white;
+	border: 2px solid #fac83e;
+}
+
+/*Contact*/
+.p-4 h6 {
+	color: white;
+	margin-top: 10rem;
+	font-family: 'Zilla Slab', serif;
+	font-size: 1.5rem;
+}
+
+
+#images img {
+	background-color: black;
+	width: 50px;
+	border-radius: 300px;
+}
+
+.name > p {
+	color: white;
+	padding: 0.5rem;
+}
+
+/*All about me*/
+.p-4 .text-center {
+	color: white;
+	font-family: 'Zilla Slab', serif;
+	font-size: 3rem;
+	border-left: 1px solid #fac83e;
+	border-right: 1px solid #fac83e;
+	margin-left: 20rem;
+	margin-right: 20rem;
+	margin-bottom: 4rem;
+	font-weight: bold;
+
+}
+
+#images_me img {
+	padding: 2rem;
+	border: 1px solid white;
+	margin: 2rem;
+}
+
+#images_me .text p {
+	color: white;
+	padding-left: 2rem;
+	font-weight: bolder;
+}
+
+/*Footer*/
+footer #footer {
+	color: white;
+	font-size: 14px;
+	padding: 0.5rem 1rem;
+}
+
+footer{
+	border-top: 1px solid grey;
+}
