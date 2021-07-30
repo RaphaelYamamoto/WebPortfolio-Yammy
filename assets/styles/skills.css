@@ -24,6 +24,20 @@
 
 }
 
+.container-fluid .p-5 {
+	color: white;
+	font-size: 2rem;
+
+}
+
+.p-4 h5 {
+	color: white;
+	padding-left: 2rem;
+	padding-top: 2rem;
+	padding-bottom: 5rem;
+	height: 100px;
+}
+
 #tools > h1 {
 	margin: 0rem;
 	margin-top: 100px;
