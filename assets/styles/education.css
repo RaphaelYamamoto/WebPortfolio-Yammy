@@ -6,7 +6,44 @@
 	font-family: 'Poppins', sans-serif;
 }
 
+/*Educational Background*/
+.d-flex > h1 {
+	color: #fac83e;
+	font-family: 'Zilla Slab', serif;
+	font-size: 3rem;
+	border: 3px solid white;
+	margin-top: 5rem;
+	margin-bottom: 10rem;
+	padding: 3rem;
 
+}
+/*images*/
+#dasma > .p-4 > img, #leiaai > .p-4 > img, #zuitt > .p-4 > img {
+	border: 3px solid white;
+}
+
+/*schools description*/
+#dasma .d-flex, #leiaai .d-flex, #zuitt .d-flex   {
+	color: white;
+}
+
+#dasma .p-5 #name, #leiaai .p-5 #name, #zuitt .p-5 #name {
+	font-family: 'Zilla Slab', serif;
+	color: sandybrown;
+	font-size: 1.7rem;
+	font-weight: bold;
+	padding-top: auto;
+}
+
+#dasma .p-5 #date, #leiaai .p-5 #date, #zuitt .p-5 #date {
+	font-size: 1.2rem;
+	padding-top: 1rem;
+	padding-bottom: 2rem;
+}
+
+#schools {
+	padding-bottom: 5rem;
+}
 
 
 /*Footer*/

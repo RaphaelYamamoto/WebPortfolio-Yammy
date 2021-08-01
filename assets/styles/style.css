@@ -6,25 +6,45 @@
 	font-family: 'Poppins', sans-serif;
 }
 
+/*Image*/
 .text-center > img {
 	border: 3px solid white;
 	margin-top: 50px;
 }
+
+/*Name*/
 .container-fluid .text-center h2 {
 	color: white;
 	font-family: 'Zilla Slab', serif;
 	font-size: 4rem;
 }
 
+/*Full Stack Web Developer*/
 .container-fluid .text-center .container h4 {
 	color: white;
-	border-bottom: 1px solid #fac83e;
 	margin-bottom: 5rem;
 }
 
+/*description*/
 .text-justify {
 	color: white;
 	border: 2px solid #fac83e;
+}
+
+/*Motto*/
+.text-justify #motto {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	color: lightskyblue;
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+/*Contact link*/
+.container-fluid .btn {
+	margin-top: 3rem;
+	margin-right: 2rem;
 }
 
 /*Contact*/
