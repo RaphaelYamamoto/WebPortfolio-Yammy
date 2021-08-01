@@ -6,9 +6,24 @@
 	font-family: 'Poppins', sans-serif;
 }
 
+.d-flex h1{
+	color: black;
+	background-color: white;
+	font-size: 3rem;
+	font-weight: bolder;
+	padding: 4rem;
+	margin-top: -0.7rem;
+	margin-bottom: 4rem;
+	width: 1400px;
+}
 
-
-
+.d-flex h5 {
+	color: lightslategray;
+	background-color: white;
+	font-size: 0.8rem;
+	padding: 2rem 2rem 0rem 2rem;
+	width: 1400px;
+}
 /*Footer*/
 footer #footer {
 	color: white;

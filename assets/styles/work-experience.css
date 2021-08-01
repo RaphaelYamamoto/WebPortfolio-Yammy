@@ -6,9 +6,444 @@
 	font-family: 'Poppins', sans-serif;
 }
 
+/*Work Experience*/
+.d-flex h1 {
+	color: #fac83e;
+	font-family: 'Zilla Slab', serif;
+	font-size: 4rem;
+	border: 3px solid white;
+	margin-top: 5rem;
+	margin-bottom: 10rem;
+	padding: 3rem;
+}
+
+/*Work History*/
+.container-fluid .d-flex h4 {
+	color: white;
+	font-weight: bold;
+	padding-left: 2rem;
+	padding-bottom: 2rem;
+}
+ /*work name*/
+#work #npc #name {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
+
+#work #amz #name {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	margin-top: 0.5rem;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
+
+#work #interac #name {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	margin-top: 0.5rem;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
+
+#work #gff #name {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	margin-top: 0.5rem;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
+
+#work #smb #name {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	margin-top: 0.5rem;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
+
+/*work date*/
+#work #npc #date {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #amz #date {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #interac #date {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #gff #date {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #smb #date {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+/*job name*/
+#work #npc #job-name {
+	color: lightslategray;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #amz #job-name {
+	color: lightslategray;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #interac #job-name {
+	color: lightslategray;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #gff #job-name {
+	color: lightslategray;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #smb #job-name {
+	color: lightslategray;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+/*job description*/
+#work #npc #job-description #job1 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #npc #job-description #job2 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #npc #job-description #job3 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #npc #job-description #job4 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #npc #job-description #job5 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #npc #job-description #job6 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+	border-bottom: 0.5px solid grey;
+}
+
+/*amz*/
+#work #amz #job-description #job1 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #amz #job-description #job2 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #amz #job-description #job3 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+	border-bottom: 0.5px solid grey;
+}
+
+/*interac*/
+#work #interac #job-description #job1 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #interac #job-description #job2 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+	border-bottom: 0.5px solid grey;
+}
+
+/*gff*/
+#work #gff #job-description #job1 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #gff #job-description #job2 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #gff #job-description #job3 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+	border-bottom: 0.5px solid grey;
+}
+
+/*smb*/
+#work #smb #job-description #job1 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #smb #job-description #job2 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #smb #job-description #job3 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+}
+
+#work #smb #job-description #job4 {
+	color: ghostwhite;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	margin-top: -0.9rem;
+	padding: 1rem 1rem 1.5rem 2rem;
+	border-left: 0.5px solid grey;
+	border-bottom: 0.5px solid grey;
+}
+
+/*certificates date*/
+#certificate1 #date {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	margin-top: -1rem;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
+
+#certificate2 #date {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
+
+#certificate3 #date {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
+
+#certificate4 #date {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
+
+#certificate5 #date {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
+	margin-right: 620px;
+	border-radius: 300px;
+	border: 1px solid #63fffc;
+}
 
 
+/*certificates name*/
+#certificate1 #name {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
 
+#certificate2 #name {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#certificate3 #name {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#certificate4 #name {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+}
+
+#certificate5 #name {
+	color: lightcyan;
+	font-size: 0.9rem;
+	margin-left: 3rem;
+	padding: 1rem;
+	border-left: 0.5px solid grey;
+	border-bottom: 0.5px solid grey;
+	margin-bottom: 5rem;
+	width: 1000px;
+}
 
 /*Footer*/
 footer #footer {
