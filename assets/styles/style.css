@@ -6,6 +6,13 @@
 	font-family: 'Poppins', sans-serif;
 }
 
+main {
+	.slit-in-diagonal-1 
+	-webkit-animation: slit-in-diagonal-1 0.45s ease-out both;
+	        animation: slit-in-diagonal-1 0.45s ease-out both;
+}
+
+
 /*Image*/
 .text-center > img {
 	border: 3px solid white;
