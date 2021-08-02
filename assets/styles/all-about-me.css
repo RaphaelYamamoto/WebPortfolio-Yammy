@@ -7,6 +7,37 @@
 }
 
 
+/*All about me*/
+.p-4 .text-center {
+	color: #fac83e;
+	font-family: 'Zilla Slab', serif;
+	font-size: 3rem;
+	border: 3px solid white;
+	margin-left: 20rem;
+	margin-right: 20rem;
+	margin-bottom: 5rem;
+	font-weight: bold;
+
+}
+
+
+#images_me img {
+	padding: 2rem;
+	border: 3px solid white;
+	margin: 5rem 2rem 2rem;
+}
+
+#images_me .text p {
+	color: white;
+	padding-left: 2rem;
+	font-weight: bolder;
+}
+
+/*blockquote*/
+.blockquote p {
+	color: white;
+	text-decoration-style: justify;
+}
 
 
 

@@ -24,6 +24,40 @@
 	padding: 2rem 2rem 0rem 2rem;
 	width: 1400px;
 }
+
+/*image*/
+#img img {
+	margin-bottom: -1rem;
+	padding-left: 5rem;
+	padding-right: 5rem;
+}
+
+
+/*Contact*/
+#images img {
+	background-color: black;
+	width: 30px;
+	height: 30px;
+	border-radius: 300px;
+	margin-left: 4rem;
+	margin-top: 3rem;
+}
+
+.name > p {
+	color: white;
+	padding: 0.5rem;
+	margin-top: 2.2rem;
+
+
+}
+
+/*Forms*/
+.d-flex p {
+	color: white;
+	font-size: 1.5rem;
+
+}
+
 /*Footer*/
 footer #footer {
 	color: white;
