@@ -18,10 +18,6 @@
 	<!-- Bootstrap CSS -->
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 
-   <!-- animate.css CDN -->
-   <link
-       rel="stylesheet"
-       href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
    <link rel="stylesheet" href="./assets/styles/style.css">
 
@@ -30,14 +26,18 @@
    <!-- link[rel="icon"] -->
   	
    	<link rel="icon" href="https://i.pinimg.com/originals/09/77/8b/09778b5e8ced94740612466501cd8e5a.png">
+   <!-- animate.css CDN -->
+   <link
+       rel="stylesheet"
+       href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
 	<title>"Raphael Andreo Yamamoto" Web Portfolio"</title>
 </head>
 <body>
-	<main class="animate__animated animate__rotateIn">
-
 	<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark d-*-flex flex-wrap">
 		<div class="container-fluid">
+			<!-- hamburger icon -->
+			  <!-- end of customization -->
 			<a href="index.html" class="navbar-brand">
 				<img width="50" src="./assets/images/crest.png" alt="unavailable" class="d-inline-block align-text-center">
 			</a>
@@ -73,7 +73,7 @@
 
       <!-- description section -->
 
-      <div class="text-justify p-4"> <!-- p=>padding -->
+      <div class="text-justify p-4 flex-wrap"> <!-- p=>padding -->
       	<div id="paragraph1">
 	        <p>Hi! Currently studying Software Engineering in Zuitt. I don't have any backgrounds in programming, in web development, and in any IT related courses but right now I'm doing my best to learn and to cope up with the lessons everyday. Graduate of Bachelor of Science in Business Administration Major in Business Management at De La Salle University-Dasmari&ntildeas, Cavite. Also, currently a Private Pilot License holder and planning to continue my studies in Pilot too.
 	        </p>
@@ -87,6 +87,67 @@
      <div class="container-fluid d-flex justify-content-end">
      	<a class="btn btn-light" href="./pages/contact.html" role="button">Contact</a></button>
      </div>
+
+     <!-- <div class="container-fluid p-4">
+	     	<div class="text-center mb-5">
+	     		<h4>Project</h4>
+	     	</div>
+
+	     	<div class="row mt-3 mb-3">
+	     		<div class="col order-2">
+	     			<h5>Web API</h5>
+	     			<p>Capstone2 Project</p>
+	     			<p>"Work in Progress"</p>
+	     		</div>
+	     		<div class="col order-1">
+	     			<div class="text-center">
+	     				<img src="https://www.cloudways.com/blog/wp-content/uploads/Rest-API-introduction.jpg" alt="image not found" class="img-fluid">
+	     			</div>
+	     		</div>
+	     	</div>
+
+	     	<div class="row mt-3 mb-3">
+	     		<div class="col-md-6 order-2">
+	     			<h5>React Frontend</h5>
+	     			<p>Capstone3 Project</p>
+	     			<p>"Work in Progress"</p>
+	     		</div>
+	     		<div class="col-md-6 order-2">
+	     			<div class="text-center animate_animated animate__fadeInLeft">
+	     				<img src="https://d6vdma9166ldh.cloudfront.net/media/images/1455b5c8-4887-43a8-8214-de77543414c9.jpg" alt="image not found" class="img-fluid">
+	     			</div>
+	     		</div>
+	     	</div>
+     </div> -->
+
+     <div class="container-fluid p-4">
+     	     	<div class="text-center mb-5">
+     	     		<h4>Project</h4>
+     	     	</div>
+
+	     <div class="row animate_animated animate__flipOutY">
+	       <div class="col-sm-6">
+	         <div class="card">
+	           <div class="card-body text-white rounded text-center m-2">
+	             <h5 class="card-title">Web API</h5>
+	             <p class="card-text">Capstone2 Project</p>
+	             <img src="https://www.cloudways.com/blog/wp-content/uploads/Rest-API-introduction.jpg" alt="image not found" class="img-fluid">
+	             <p class="card-text">"Work in Progress"</p>
+	           </div>
+	         </div>
+	       </div>
+	       <div class="col-sm-6">
+	         <div class="card">
+	           <div class="card-body text-white rounded text-center m-2">
+	             <h5 class="card-title">React Frontend</h5>
+	             <p class="card-text">Capstone3 Project</p>
+	             <img src="https://d6vdma9166ldh.cloudfront.net/media/images/1455b5c8-4887-43a8-8214-de77543414c9.jpg" alt="image not found" class="img-fluid">
+	             <p class="card-text">"Work in Progress"</p>
+	           </div>
+	         </div>
+	       </div>
+	     </div>
+	    </div>
 
 
    	<footer class="container-fluid d-inline-flex d-flex d-*-flex flex-wrap mr-auto">
@@ -126,6 +187,5 @@
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
-	</main>	
 </body>
 </html>

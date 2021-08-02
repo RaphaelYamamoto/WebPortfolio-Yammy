@@ -44,8 +44,8 @@ main {
 	font-size: 25px;
 	font-weight: bold;
 	color: lightskyblue;
-	margin-left: 350px;
-	margin-right: 350px;
+	/*margin-left: 350px;
+	margin-right: 350px;*/
 }
 
 /*Contact link*/
@@ -54,6 +54,14 @@ main {
 	margin-right: 2rem;
 	border-radius: 300px;
 	margin-bottom: 5rem;
+}
+
+/*project*/
+.container-fluid h4 {
+	color: white;
+	font-size: 3rem;
+	font-weight: bold;
+	
 }
 
 /*Footer*/
