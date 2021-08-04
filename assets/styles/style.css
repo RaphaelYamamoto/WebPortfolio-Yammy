@@ -15,7 +15,8 @@ main {
 
 /*Image*/
 .text-center > img {
-	border: 3px solid white;
+	border: 5px solid white;
+	background-color: darkgrey;
 	margin-top: 50px;
 }
 
@@ -30,6 +31,7 @@ main {
 .container-fluid .text-center .container h4 {
 	color: white;
 	margin-bottom: 5rem;
+	font-size: 2rem;
 }
 
 /*description*/
